@@ -2,7 +2,7 @@
 
 include "config/database.php";
 
-$phone = "9380235043";
+$phone = "type admins number here";
 
 $password = password_hash(
     "admin@123",
